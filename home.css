@@ -1,0 +1,1755 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.home-image {
+  width: 65%;
+  height: auto;
+  z-index: 100;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  object-fit: cover;
+  padding-bottom: 0px;
+}
+.home-container1 {
+  width: 970px;
+  height: 52px;
+  display: flex;
+  align-items: flex-start;
+  padding-top: var(--dl-space-space-oneandhalfunits);
+  border-radius: var(--dl-radius-radius-radius4);
+  flex-direction: column;
+}
+.home-text {
+  font-size: 14px;
+  text-align: center;
+}
+.home-text02 {
+  color: var(--dl-color-gray-black);
+  text-transform: lowercase;
+}
+.home-text03 {
+  color: var(--dl-color-gray-black);
+  text-transform: lowercase;
+}
+.home-text04 {
+  color: var(--dl-color-gray-black);
+  text-transform: lowercase;
+}
+.home-text05 {
+  color: var(--dl-color-gray-black);
+  text-transform: lowercase;
+}
+.home-text06 {
+  color: var(--dl-color-gray-black);
+  text-transform: lowercase;
+}
+.home-text07 {
+  color: var(--dl-color-gray-black);
+  text-transform: capitalize;
+}
+.home-text08 {
+  color: var(--dl-color-gray-black);
+  text-transform: lowercase;
+}
+.home-text09 {
+  color: var(--dl-color-gray-black);
+  text-transform: uppercase;
+}
+.home-text10 {
+  color: var(--dl-color-gray-black);
+  text-transform: lowercase;
+}
+.home-container2 {
+  flex: 0 0 auto;
+  width: 868px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home-text11 {
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  background-color: rgb(100, 95, 140);
+}
+.home-container3 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.home-text12 {
+  height: 189px;
+  font-size: 15px;
+  align-self: center;
+  padding-right: var(--dl-space-space-unit);
+}
+.home-text13 {
+  color: #645f8c;
+}
+.home-text14 {
+  color: #b3ace0;
+}
+.home-text16 {
+  color: #645f8c;
+}
+.home-text17 {
+  color: #b3ace0;
+}
+.home-text19 {
+  color: #645f8c;
+}
+.home-text20 {
+  color: #b3ace0;
+}
+.home-text22 {
+  color: #645f8c;
+}
+.home-text23 {
+  color: #b3ace0;
+}
+.home-text25 {
+  color: #645f8c;
+}
+.home-text26 {
+  color: #b3ace0;
+}
+.home-text28 {
+  color: #645f8c;
+}
+.home-text29 {
+  color: #b3ace0;
+}
+.home-text31 {
+  color: #645f8c;
+}
+.home-text32 {
+  color: #b3ace0;
+}
+.home-text34 {
+  color: #645f8c;
+}
+.home-text35 {
+  color: #b3ace0;
+}
+.home-text37 {
+  color: #645f8c;
+}
+.home-text38 {
+  color: #b3ace0;
+}
+.home-text43 {
+  font-size: 15px;
+  align-self: center;
+  margin-left: var(--dl-space-space-unit);
+}
+.home-text44 {
+  color: #645f8c;
+}
+.home-text45 {
+  color: #b3ace0;
+}
+.home-text47 {
+  color: #645f8c;
+}
+.home-text48 {
+  color: #b3ace0;
+}
+.home-text50 {
+  color: #645f8c;
+}
+.home-text51 {
+  color: #b3ace0;
+}
+.home-text53 {
+  color: #645f8c;
+}
+.home-text54 {
+  color: #b3ace0;
+}
+.home-text56 {
+  color: #645f8c;
+}
+.home-text57 {
+  color: #b3ace0;
+}
+.home-text59 {
+  color: #645f8c;
+}
+.home-text60 {
+  color: #b3ace0;
+}
+.home-text62 {
+  color: #645f8c;
+}
+.home-text63 {
+  color: #b3ace0;
+}
+.home-text65 {
+  color: #645f8c;
+}
+.home-text66 {
+  color: #b3ace0;
+}
+.home-text68 {
+  color: #645f8c;
+}
+.home-text69 {
+  color: #b3ace0;
+}
+.home-container4 {
+  flex: 0 0 auto;
+  width: 200px;
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: var(--dl-space-space-unit);
+  flex-direction: column;
+}
+.home-text73 {
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  align-self: center;
+  margin-top: var(--dl-space-space-halfunit);
+  margin-bottom: var(--dl-space-space-unit);
+  background-color: rgb(100, 95, 140);
+}
+.home-container5 {
+  width: 669px;
+  height: 381px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.home-text75 {
+  color: #645f8c;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.home-text77 {
+  font-size: 15px;
+}
+.home-text81 {
+  color: #645f8c;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.home-text83 {
+  font-size: 15px;
+}
+.home-text87 {
+  color: #645f8c;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+.home-text90 {
+  font-size: 15px;
+}
+@media(max-width: 1200px) {
+  .home-image {
+    width: 80%;
+    height: auto;
+  }
+  .home-text12 {
+    height: 146px;
+    font-size: 15px;
+    padding-right: var(--dl-space-space-oneandhalfunits);
+  }
+  .home-text13 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text14 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text15 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text16 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text17 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text18 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text19 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text20 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text21 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text22 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text23 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text24 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text25 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text26 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text27 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text28 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text29 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text30 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text31 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text32 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text33 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text34 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text35 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text36 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text37 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text38 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text39 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text40 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text43 {
+    font-size: 15px;
+  }
+  .home-text44 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text45 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text46 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text47 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text48 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text49 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text50 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text51 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text52 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text53 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text54 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text55 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text56 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text57 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text58 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text59 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text60 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text61 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text62 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text63 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text64 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text65 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text66 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text67 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text68 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text69 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text70 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+}
+@media(max-width: 991px) {
+  .home-image {
+    width: 100ˆ%;
+    height: 100%;
+  }
+  .home-container1 {
+    width: 749px;
+  }
+  .home-text {
+    padding-top: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .home-text12 {
+    font-size: 15px;
+    margin-top: var(--dl-space-space-unit);
+  }
+  .home-text13 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text14 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text15 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text16 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text17 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text18 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text19 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text20 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text21 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text22 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text23 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text24 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text25 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text26 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text27 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text28 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text29 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text30 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text31 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text32 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text33 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text34 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text35 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text36 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text37 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text38 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text39 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text40 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text43 {
+    font-size: 15px;
+    margin-top: var(--dl-space-space-unit);
+  }
+  .home-text44 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text45 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text46 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text47 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text48 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text49 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text50 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text51 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text52 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text53 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text54 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text55 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text56 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text57 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text58 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text59 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text60 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text61 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text62 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text63 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text64 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text65 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text66 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text67 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text68 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text69 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text70 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+}
+@media(max-width: 767px) {
+  .home-container1 {
+    width: 598px;
+  }
+  .home-text12 {
+    font-size: 15px;
+  }
+  .home-text13 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text14 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text15 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text16 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text17 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text18 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text19 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text20 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text21 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text22 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text23 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text24 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text25 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text26 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text27 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text28 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text29 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text30 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text31 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text32 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text33 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text34 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text35 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text36 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text37 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text38 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text39 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text40 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text43 {
+    font-size: 15px;
+  }
+  .home-text44 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text45 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text46 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text47 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text48 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text49 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text50 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text51 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text52 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text53 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text54 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text55 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text56 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text57 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text58 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text59 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text60 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text61 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text62 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text63 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text64 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text65 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text66 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text67 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text68 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text69 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text70 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+}
+@media(max-width: 479px) {
+  .home-image {
+    width: 100%;
+    height: 100%;
+  }
+  .home-container1 {
+    width: 100%;
+    height: 69px;
+  }
+  .home-text {
+    font-size: 13px;
+    margin-left: var(--dl-space-space-halfunit);
+    padding-top: var(--dl-space-space-halfunit);
+    margin-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .home-text02 {
+    color: var(--dl-color-gray-black);
+    text-transform: lowercase;
+  }
+  .home-text03 {
+    color: var(--dl-color-gray-black);
+    text-transform: capitalize;
+  }
+  .home-text04 {
+    color: var(--dl-color-gray-black);
+    text-transform: lowercase;
+  }
+  .home-text05 {
+    color: var(--dl-color-gray-black);
+    text-transform: capitalize;
+  }
+  .home-text06 {
+    color: var(--dl-color-gray-black);
+    text-transform: lowercase;
+  }
+  .home-text07 {
+    color: var(--dl-color-gray-black);
+    text-transform: capitalize;
+  }
+  .home-text08 {
+    color: var(--dl-color-gray-black);
+    text-transform: lowercase;
+  }
+  .home-text09 {
+    color: var(--dl-color-gray-black);
+    text-transform: uppercase;
+  }
+  .home-text10 {
+    color: var(--dl-color-gray-black);
+    text-transform: lowercase;
+  }
+  .home-container2 {
+    width: 100%;
+    height: 45px;
+    align-self: center;
+    margin-top: var(--dl-space-space-oneandhalfunits);
+    align-items: flex-end;
+    margin-left: 0px;
+    padding-top: var(--dl-space-space-oneandhalfunits);
+    justify-content: center;
+  }
+  .home-text11 {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    background-color: rgb(100, 95, 140);
+  }
+  .home-text12 {
+    width: 189px;
+    height: 146px;
+    font-size: 15px;
+    padding-right: var(--dl-space-space-unit);
+  }
+  .home-text13 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text14 {
+    color: #9b96c9;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text15 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text16 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text17 {
+    color: #9b96c9;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text18 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text19 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text20 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text21 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text22 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text23 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text24 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text25 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text26 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text27 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text28 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text29 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text30 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text31 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text32 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text33 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text34 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text35 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text36 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text37 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text38 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text39 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text40 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text41 {
+    font-size: 15px;
+  }
+  .home-text42 {
+    font-size: 15px;
+  }
+  .home-text43 {
+    width: 165px;
+    font-size: 15px;
+    text-align: right;
+  }
+  .home-text44 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text45 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text46 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text47 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text48 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text49 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text50 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text51 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text52 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text53 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text54 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text55 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text56 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text57 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text58 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text59 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text60 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text61 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text62 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text63 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text64 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text65 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text66 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text67 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text68 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text69 {
+    color: #b3ace0;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text70 {
+    color: #645f8c;
+    font-size: 0.7em;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .home-text71 {
+    font-size: 15px;
+  }
+  .home-text72 {
+    font-size: 15px;
+  }
+  .home-container4 {
+    width: 227px;
+    align-items: center;
+  }
+  .home-text73 {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    background-color: rgb(100, 95, 140);
+  }
+  .home-container5 {
+    width: 340px;
+    height: 287px;
+  }
+  .home-text74 {
+    margin-top: var(--dl-space-space-unit);
+  }
+  .home-text75 {
+    color: #645f8c;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .home-text77 {
+    font-size: 15px;
+  }
+  .home-text81 {
+    color: #645f8c;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .home-text83 {
+    font-size: 15px;
+  }
+  .home-text87 {
+    color: #645f8c;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .home-text90 {
+    font-size: 15px;
+  }
+}
