@@ -235,22 +235,22 @@
 .home-text77 {
   font-size: 15px;
 }
-.home-text81 {
+.home-text80 {
   color: #645f8c;
   font-size: 15px;
   font-style: normal;
   font-weight: 700;
 }
-.home-text83 {
+.home-text82 {
   font-size: 15px;
 }
-.home-text87 {
+.home-text86 {
   color: #645f8c;
   font-size: 15px;
   font-style: normal;
   font-weight: 700;
 }
-.home-text90 {
+.home-text89 {
   font-size: 15px;
 }
 @media(max-width: 1200px) {
@@ -1727,29 +1727,29 @@
   }
   .home-text75 {
     color: #645f8c;
-    font-size: 15px;
+    font-size: 13px;
     font-style: normal;
     font-weight: 700;
   }
   .home-text77 {
-    font-size: 15px;
+    font-size: 13px;
   }
-  .home-text81 {
+  .home-text80 {
     color: #645f8c;
-    font-size: 15px;
+    font-size: 13px;
     font-style: normal;
     font-weight: 700;
   }
-  .home-text83 {
-    font-size: 15px;
+  .home-text82 {
+    font-size: 13px;
   }
-  .home-text87 {
+  .home-text86 {
     color: #645f8c;
-    font-size: 15px;
+    font-size: 13px;
     font-style: normal;
     font-weight: 700;
   }
-  .home-text90 {
-    font-size: 15px;
+  .home-text89 {
+    font-size: 13px;
   }
 }
